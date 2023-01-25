@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "install": "^0.13.0",
+    "npm": "^9.3.1"
+  }
+}
